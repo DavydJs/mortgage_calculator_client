@@ -1,0 +1,21 @@
+.desc {
+    padding-top: 30px;
+    text-align: center;
+    height: 110px;
+    border-bottom: solid 2px;
+    border-color: black;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+.banks {
+    text-align: center;
+    height: 110px;
+    border-bottom: solid 6px;
+    border-color: black;
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+    display: flex;
+}

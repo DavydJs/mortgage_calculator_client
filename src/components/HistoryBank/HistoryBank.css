@@ -1,0 +1,8 @@
+.history-bank span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 24px;
+    display: inline-block;
+    border-bottom: rgb(250, 12, 59) 3px solid;
+    margin: 10px 10px 10px 90px;
+}

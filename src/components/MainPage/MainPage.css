@@ -1,0 +1,21 @@
+.main {
+    position:absolute;
+    top: 120px;
+    left: 463px;
+
+}
+
+.main p {
+    margin: 0px 0 0 320px;
+    font-size: 51px;
+    font-weight: bolder;
+    color: black;
+    width: 505px;
+    padding-left: 10px;
+}
+
+.img {
+    border-radius: 28%;
+    width: 1200px;
+    height: 700px;
+}

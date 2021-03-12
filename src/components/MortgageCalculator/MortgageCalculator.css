@@ -1,0 +1,20 @@
+.wrap-mortgage-culc-form {
+    border-width: 5px;
+    border-style: ridge;
+    border-color: currentColor;
+    width: 261px;
+    padding: 20px;
+    height: 272px;
+    margin: 37px 1px 34px 12px;
+}
+
+.wrap-mortgage-culc-form label {
+    margin-bottom: -15px;
+    font-size: 20px;
+    font-weight: bold;
+     
+}
+
+.margin-left {
+    margin-left: 5px;
+}

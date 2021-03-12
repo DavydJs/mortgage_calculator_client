@@ -1,0 +1,14 @@
+.history {
+    position: absolute;
+    background: rgb(226, 228, 238);
+    width: 1540px;
+    top: 122px;
+    left: 288px;
+}
+
+.history p {
+    font-size: 30px;
+    margin: 1px 0 0 705px;
+    font-weight: bolder;
+}
+ 

@@ -1,0 +1,27 @@
+.wrap-create-new-bank-form {
+    border-width: 5px;
+    border-style: ridge;
+    border-color: currentColor;
+    width: 261px;
+    padding: 20px;
+    height: 458px;
+    margin: 10px 1px 34px 12px;
+    }
+
+.doll {
+   position: relative;
+   margin-left: 30px;
+
+}
+
+.per {
+    margin-left: 21px;
+    position: relative;
+}
+
+ .wrap-create-new-bank-form label {
+     margin-bottom: -15px;
+     font-size: 20px;
+     font-weight: bold;
+     
+ }
